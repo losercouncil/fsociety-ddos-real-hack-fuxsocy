@@ -1,2 +1,1 @@
-# fsociety-ddos-real-hack-fuxsocy
-respitory name is not serious 
+# do NOT use this tool without permission
