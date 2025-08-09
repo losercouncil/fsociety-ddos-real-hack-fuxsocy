@@ -3294,7 +3294,7 @@ def down_it():
                 with urllib.request.urlopen(req, timeout=10) as response:
                     if response.status == 200:
                         packet_line_counter += 1
-                        print(f"[+] request #{packet_line_counter} successful ----> zzZZzzz....")
+                        print(f"[+] request #{packet_line_counter} successful, losersec expect us ----> zzZZzzz....")
                         sys.stdout.flush()
                     else:
                         error_counter += 1
